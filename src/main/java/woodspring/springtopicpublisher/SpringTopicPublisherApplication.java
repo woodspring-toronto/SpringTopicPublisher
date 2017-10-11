@@ -1,0 +1,12 @@
+package woodspring.springtopicpublisher;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringTopicPublisherApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringTopicPublisherApplication.class, args);
+	}
+}
