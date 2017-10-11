@@ -1,0 +1,2 @@
+# SpringTopicPublisher
+# with ActiveMQ Topic
